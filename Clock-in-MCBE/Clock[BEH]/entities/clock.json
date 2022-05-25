@@ -1,0 +1,59 @@
+{
+    "format_version": "1.13.0",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "hako1152:clock",
+            "is_spawnable": true,
+            "is_summonable": true,
+            "is_experimental": false
+        },
+        "components": {
+            "minecraft:nameable": {},
+            "minecraft:collision_box": { "width": 0, "height": 0 },
+            "minecraft:type_family": { "family": [ "clock" ] },
+            "minecraft:scale": { "value": 5 },
+            "minecraft:fall_damage": { "value": 0 },
+            "minecraft:jump.static": {},
+            "minecraft:behavior.float": { "priority": 0 },
+            "minecraft:knockback_resistance": { "value": 1 },
+            "minecraft:physics": {}
+        },
+        "component_groups": {
+            "default": {
+                "minecraft:variant": { "value": 0 },
+                "minecraft:mark_variant": { "value": 0 },
+                "minecraft:health": { "value": 10, "max": 10 },
+                "minecraft:can_fly":{}
+            },
+            "m0": { "minecraft:variant": { "value": 0 } },
+            "m1": { "minecraft:variant": { "value": 1 } },
+            "m2": { "minecraft:variant": { "value": 2 } },
+            "m3": { "minecraft:variant": { "value": 3 } },
+            "m4": { "minecraft:variant": { "value": 4 } },
+            "m5": { "minecraft:variant": { "value": 5 } },
+            "m6": { "minecraft:variant": { "value": 6 } },
+            "m7": { "minecraft:variant": { "value": 7 } },
+            "m8": { "minecraft:variant": { "value": 8 } },
+            "m9": { "minecraft:variant": { "value": 9 } },
+            "m00": { "minecraft:mark_variant": { "value": 1 } },
+            "m10": { "minecraft:mark_variant": { "value": 10 } },
+            "m20": { "minecraft:mark_variant": { "value": 20 } },
+            "m30": { "minecraft:mark_variant": { "value": 30 } },
+            "m40": { "minecraft:mark_variant": { "value": 40 } },
+            "m50": { "minecraft:mark_variant": { "value": 50 } },
+            "h0": { "minecraft:health": { "value": 10, "max": 10 } },
+            "h1": { "minecraft:health": { "value": 11, "max": 11 } },
+            "h2": { "minecraft:health": { "value": 12, "max": 12 } },
+            "h3": { "minecraft:health": { "value": 13, "max": 13 } },
+            "h4": { "minecraft:health": { "value": 14, "max": 14 } },
+            "h5": { "minecraft:health": { "value": 15, "max": 15 } },
+            "h6": { "minecraft:health": { "value": 16, "max": 16 } },
+            "h7": { "minecraft:health": { "value": 17, "max": 17 } },
+            "h8": { "minecraft:health": { "value": 18, "max": 18 } },
+            "h9": { "minecraft:health": { "value": 19, "max": 19 } },
+            "h00": { "minecraft:can_fly":{} },
+            "h10": { "minecraft:can_climb":{} },
+            "h20": { "minecraft:can_power_jump":{} }
+        }
+    }
+}
