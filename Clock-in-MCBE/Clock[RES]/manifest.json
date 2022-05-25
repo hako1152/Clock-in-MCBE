@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "Clock in MCBE [RES]",
+      "description": "お遊び",
+      "version": [1, 0, 0],
+      "uuid": "39e930c9-1349-469d-abd7-70b89d4bc169",
+      "min_engine_version": [1, 18, 30]
+    },
+    "modules": [
+      {
+        "type": "resources",
+        "description": "Clock resource module",
+        "version": [1, 0, 0],
+        "uuid": "636b1d0f-e2f4-4873-8e19-b157788679ff"
+      }
+    ],
+    "metadata": {
+      "generated_with": {
+        "TokaTools-Manifest-Generator": ["1.8.0"]
+      }
+    }
+  }
