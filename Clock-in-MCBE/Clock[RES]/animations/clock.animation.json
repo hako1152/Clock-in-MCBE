@@ -1,0 +1,404 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.clock.m0": {
+			"loop": true,
+			"bones": {
+				"m1_0": { "position": [0, 0, 1] },
+				"m1_1": { "position": [0, 0, 0] },
+				"m1_2": { "position": [0, 0, 0] },
+				"m1_3": { "position": [0, 0, 0] },
+				"m1_4": { "position": [0, 0, 0] },
+				"m1_5": { "position": [0, 0, 0] },
+				"m1_6": { "position": [0, 0, 0] },
+				"m1_7": { "position": [0, 0, 0] },
+				"m1_8": { "position": [0, 0, 0] },
+				"m1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m1": {
+			"loop": true,
+			"bones": {
+				"m1_0": { "position": [0, 0, 0] },
+				"m1_1": { "position": [0, 0, 1] },
+				"m1_2": { "position": [0, 0, 0] },
+				"m1_3": { "position": [0, 0, 0] },
+				"m1_4": { "position": [0, 0, 0] },
+				"m1_5": { "position": [0, 0, 0] },
+				"m1_6": { "position": [0, 0, 0] },
+				"m1_7": { "position": [0, 0, 0] },
+				"m1_8": { "position": [0, 0, 0] },
+				"m1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m2": {
+			"loop": true,
+			"bones": {
+				"m1_0": { "position": [0, 0, 0] },
+				"m1_1": { "position": [0, 0, 0] },
+				"m1_2": { "position": [0, 0, 1] },
+				"m1_3": { "position": [0, 0, 0] },
+				"m1_4": { "position": [0, 0, 0] },
+				"m1_5": { "position": [0, 0, 0] },
+				"m1_6": { "position": [0, 0, 0] },
+				"m1_7": { "position": [0, 0, 0] },
+				"m1_8": { "position": [0, 0, 0] },
+				"m1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m3": {
+			"loop": true,
+			"bones": {
+				"m1_0": { "position": [0, 0, 0] },
+				"m1_1": { "position": [0, 0, 0] },
+				"m1_2": { "position": [0, 0, 0] },
+				"m1_3": { "position": [0, 0, 1] },
+				"m1_4": { "position": [0, 0, 0] },
+				"m1_5": { "position": [0, 0, 0] },
+				"m1_6": { "position": [0, 0, 0] },
+				"m1_7": { "position": [0, 0, 0] },
+				"m1_8": { "position": [0, 0, 0] },
+				"m1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m4": {
+			"loop": true,
+			"bones": {
+				"m1_0": { "position": [0, 0, 0] },
+				"m1_1": { "position": [0, 0, 0] },
+				"m1_2": { "position": [0, 0, 0] },
+				"m1_3": { "position": [0, 0, 0] },
+				"m1_4": { "position": [0, 0, 1] },
+				"m1_5": { "position": [0, 0, 0] },
+				"m1_6": { "position": [0, 0, 0] },
+				"m1_7": { "position": [0, 0, 0] },
+				"m1_8": { "position": [0, 0, 0] },
+				"m1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m5": {
+			"loop": true,
+			"bones": {
+				"m1_0": { "position": [0, 0, 0] },
+				"m1_1": { "position": [0, 0, 0] },
+				"m1_2": { "position": [0, 0, 0] },
+				"m1_3": { "position": [0, 0, 0] },
+				"m1_4": { "position": [0, 0, 0] },
+				"m1_5": { "position": [0, 0, 1] },
+				"m1_6": { "position": [0, 0, 0] },
+				"m1_7": { "position": [0, 0, 0] },
+				"m1_8": { "position": [0, 0, 0] },
+				"m1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m6": {
+			"loop": true,
+			"bones": {
+				"m1_0": { "position": [0, 0, 0] },
+				"m1_1": { "position": [0, 0, 0] },
+				"m1_2": { "position": [0, 0, 0] },
+				"m1_3": { "position": [0, 0, 0] },
+				"m1_4": { "position": [0, 0, 0] },
+				"m1_5": { "position": [0, 0, 0] },
+				"m1_6": { "position": [0, 0, 1] },
+				"m1_7": { "position": [0, 0, 0] },
+				"m1_8": { "position": [0, 0, 0] },
+				"m1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m7": {
+			"loop": true,
+			"bones": {
+				"m1_0": { "position": [0, 0, 0] },
+				"m1_1": { "position": [0, 0, 0] },
+				"m1_2": { "position": [0, 0, 0] },
+				"m1_3": { "position": [0, 0, 0] },
+				"m1_4": { "position": [0, 0, 0] },
+				"m1_5": { "position": [0, 0, 0] },
+				"m1_6": { "position": [0, 0, 0] },
+				"m1_7": { "position": [0, 0, 1] },
+				"m1_8": { "position": [0, 0, 0] },
+				"m1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m8": {
+			"loop": true,
+			"bones": {
+				"m1_0": { "position": [0, 0, 0] },
+				"m1_1": { "position": [0, 0, 0] },
+				"m1_2": { "position": [0, 0, 0] },
+				"m1_3": { "position": [0, 0, 0] },
+				"m1_4": { "position": [0, 0, 0] },
+				"m1_5": { "position": [0, 0, 0] },
+				"m1_6": { "position": [0, 0, 0] },
+				"m1_7": { "position": [0, 0, 0] },
+				"m1_8": { "position": [0, 0, 1] },
+				"m1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m9": {
+			"loop": true,
+			"bones": {
+				"m1_0": { "position": [0, 0, 0] },
+				"m1_1": { "position": [0, 0, 0] },
+				"m1_2": { "position": [0, 0, 0] },
+				"m1_3": { "position": [0, 0, 0] },
+				"m1_4": { "position": [0, 0, 0] },
+				"m1_5": { "position": [0, 0, 0] },
+				"m1_6": { "position": [0, 0, 0] },
+				"m1_7": { "position": [0, 0, 0] },
+				"m1_8": { "position": [0, 0, 0] },
+				"m1_9": { "position": [0, 0, 1] }
+			}
+		},
+		"animation.clock.m00": {
+			"loop": true,
+			"bones": {
+				"m10_0": { "position": [0, 0, 1] },
+				"m10_1": { "position": [0, 0, 0] },
+				"m10_2": { "position": [0, 0, 0] },
+				"m10_3": { "position": [0, 0, 0] },
+				"m10_4": { "position": [0, 0, 0] },
+				"m10_5": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m10": {
+			"loop": true,
+			"bones": {
+				"m10_0": { "position": [0, 0, 0] },
+				"m10_1": { "position": [0, 0, 1] },
+				"m10_2": { "position": [0, 0, 0] },
+				"m10_3": { "position": [0, 0, 0] },
+				"m10_4": { "position": [0, 0, 0] },
+				"m10_5": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m20": {
+			"loop": true,
+			"bones": {
+				"m10_0": { "position": [0, 0, 0] },
+				"m10_1": { "position": [0, 0, 0] },
+				"m10_2": { "position": [0, 0, 1] },
+				"m10_3": { "position": [0, 0, 0] },
+				"m10_4": { "position": [0, 0, 0] },
+				"m10_5": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m30": {
+			"loop": true,
+			"bones": {
+				"m10_0": { "position": [0, 0, 0] },
+				"m10_1": { "position": [0, 0, 0] },
+				"m10_2": { "position": [0, 0, 0] },
+				"m10_3": { "position": [0, 0, 1] },
+				"m10_4": { "position": [0, 0, 0] },
+				"m10_5": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m40": {
+			"loop": true,
+			"bones": {
+				"m10_0": { "position": [0, 0, 0] },
+				"m10_1": { "position": [0, 0, 0] },
+				"m10_2": { "position": [0, 0, 0] },
+				"m10_3": { "position": [0, 0, 0] },
+				"m10_4": { "position": [0, 0, 1] },
+				"m10_5": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.m50": {
+			"loop": true,
+			"bones": {
+				"m10_0": { "position": [0, 0, 0] },
+				"m10_1": { "position": [0, 0, 0] },
+				"m10_2": { "position": [0, 0, 0] },
+				"m10_3": { "position": [0, 0, 0] },
+				"m10_4": { "position": [0, 0, 0] },
+				"m10_5": { "position": [0, 0, 1] }
+			}
+		},
+		"animation.clock.h0": {
+			"loop": true,
+			"bones": {
+				"h1_0": { "position": [0, 0, 1] },
+				"h1_1": { "position": [0, 0, 0] },
+				"h1_2": { "position": [0, 0, 0] },
+				"h1_3": { "position": [0, 0, 0] },
+				"h1_4": { "position": [0, 0, 0] },
+				"h1_5": { "position": [0, 0, 0] },
+				"h1_6": { "position": [0, 0, 0] },
+				"h1_7": { "position": [0, 0, 0] },
+				"h1_8": { "position": [0, 0, 0] },
+				"h1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h1": {
+			"loop": true,
+			"bones": {
+				"h1_0": { "position": [0, 0, 0] },
+				"h1_1": { "position": [0, 0, 1] },
+				"h1_2": { "position": [0, 0, 0] },
+				"h1_3": { "position": [0, 0, 0] },
+				"h1_4": { "position": [0, 0, 0] },
+				"h1_5": { "position": [0, 0, 0] },
+				"h1_6": { "position": [0, 0, 0] },
+				"h1_7": { "position": [0, 0, 0] },
+				"h1_8": { "position": [0, 0, 0] },
+				"h1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h2": {
+			"loop": true,
+			"bones": {
+				"h1_0": { "position": [0, 0, 0] },
+				"h1_1": { "position": [0, 0, 0] },
+				"h1_2": { "position": [0, 0, 1] },
+				"h1_3": { "position": [0, 0, 0] },
+				"h1_4": { "position": [0, 0, 0] },
+				"h1_5": { "position": [0, 0, 0] },
+				"h1_6": { "position": [0, 0, 0] },
+				"h1_7": { "position": [0, 0, 0] },
+				"h1_8": { "position": [0, 0, 0] },
+				"h1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h3": {
+			"loop": true,
+			"bones": {
+				"h1_0": { "position": [0, 0, 0] },
+				"h1_1": { "position": [0, 0, 0] },
+				"h1_2": { "position": [0, 0, 0] },
+				"h1_3": { "position": [0, 0, 1] },
+				"h1_4": { "position": [0, 0, 0] },
+				"h1_5": { "position": [0, 0, 0] },
+				"h1_6": { "position": [0, 0, 0] },
+				"h1_7": { "position": [0, 0, 0] },
+				"h1_8": { "position": [0, 0, 0] },
+				"h1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h4": {
+			"loop": true,
+			"bones": {
+				"h1_0": { "position": [0, 0, 0] },
+				"h1_1": { "position": [0, 0, 0] },
+				"h1_2": { "position": [0, 0, 0] },
+				"h1_3": { "position": [0, 0, 0] },
+				"h1_4": { "position": [0, 0, 1] },
+				"h1_5": { "position": [0, 0, 0] },
+				"h1_6": { "position": [0, 0, 0] },
+				"h1_7": { "position": [0, 0, 0] },
+				"h1_8": { "position": [0, 0, 0] },
+				"h1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h5": {
+			"loop": true,
+			"bones": {
+				"h1_0": { "position": [0, 0, 0] },
+				"h1_1": { "position": [0, 0, 0] },
+				"h1_2": { "position": [0, 0, 0] },
+				"h1_3": { "position": [0, 0, 0] },
+				"h1_4": { "position": [0, 0, 0] },
+				"h1_5": { "position": [0, 0, 1] },
+				"h1_6": { "position": [0, 0, 0] },
+				"h1_7": { "position": [0, 0, 0] },
+				"h1_8": { "position": [0, 0, 0] },
+				"h1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h6": {
+			"loop": true,
+			"bones": {
+				"h1_0": { "position": [0, 0, 0] },
+				"h1_1": { "position": [0, 0, 0] },
+				"h1_2": { "position": [0, 0, 0] },
+				"h1_3": { "position": [0, 0, 0] },
+				"h1_4": { "position": [0, 0, 0] },
+				"h1_5": { "position": [0, 0, 0] },
+				"h1_6": { "position": [0, 0, 1] },
+				"h1_7": { "position": [0, 0, 0] },
+				"h1_8": { "position": [0, 0, 0] },
+				"h1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h7": {
+			"loop": true,
+			"bones": {
+				"h1_0": { "position": [0, 0, 0] },
+				"h1_1": { "position": [0, 0, 0] },
+				"h1_2": { "position": [0, 0, 0] },
+				"h1_3": { "position": [0, 0, 0] },
+				"h1_4": { "position": [0, 0, 0] },
+				"h1_5": { "position": [0, 0, 0] },
+				"h1_6": { "position": [0, 0, 0] },
+				"h1_7": { "position": [0, 0, 1] },
+				"h1_8": { "position": [0, 0, 0] },
+				"h1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h8": {
+			"loop": true,
+			"bones": {
+				"h1_0": { "position": [0, 0, 0] },
+				"h1_1": { "position": [0, 0, 0] },
+				"h1_2": { "position": [0, 0, 0] },
+				"h1_3": { "position": [0, 0, 0] },
+				"h1_4": { "position": [0, 0, 0] },
+				"h1_5": { "position": [0, 0, 0] },
+				"h1_6": { "position": [0, 0, 0] },
+				"h1_7": { "position": [0, 0, 0] },
+				"h1_8": { "position": [0, 0, 1] },
+				"h1_9": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h9": {
+			"loop": true,
+			"bones": {
+				"h1_0": { "position": [0, 0, 0] },
+				"h1_1": { "position": [0, 0, 0] },
+				"h1_2": { "position": [0, 0, 0] },
+				"h1_3": { "position": [0, 0, 0] },
+				"h1_4": { "position": [0, 0, 0] },
+				"h1_5": { "position": [0, 0, 0] },
+				"h1_6": { "position": [0, 0, 0] },
+				"h1_7": { "position": [0, 0, 0] },
+				"h1_8": { "position": [0, 0, 0] },
+				"h1_9": { "position": [0, 0, 1] }
+			}
+		},
+		"animation.clock.h00": {
+			"loop": true,
+			"bones": {
+				"h10_0": { "position": [0, 0, 1] },
+				"h10_1": { "position": [0, 0, 0] },
+				"h10_2": { "position": [0, 0, 0] },
+				"h10_3": { "position": [0, 0, 0] },
+				"h10_4": { "position": [0, 0, 0] },
+				"h10_5": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h10": {
+			"loop": true,
+			"bones": {
+				"h10_0": { "position": [0, 0, 0] },
+				"h10_1": { "position": [0, 0, 1] },
+				"h10_2": { "position": [0, 0, 0] },
+				"h10_3": { "position": [0, 0, 0] },
+				"h10_4": { "position": [0, 0, 0] },
+				"h10_5": { "position": [0, 0, 0] }
+			}
+		},
+		"animation.clock.h20": {
+			"loop": true,
+			"bones": {
+				"h10_0": { "position": [0, 0, 0] },
+				"h10_1": { "position": [0, 0, 0] },
+				"h10_2": { "position": [0, 0, 1] },
+				"h10_3": { "position": [0, 0, 0] },
+				"h10_4": { "position": [0, 0, 0] },
+				"h10_5": { "position": [0, 0, 0] }
+			}
+		}
+	}
+}

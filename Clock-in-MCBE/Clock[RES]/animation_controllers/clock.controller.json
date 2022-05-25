@@ -1,0 +1,78 @@
+{
+    "format_version": "1.10.0",
+    "animation_controllers": {
+        "controller.animation.clock.m1": {
+            "initial_state": "default",
+            "states": {
+                "default": {
+                    "animations": [
+                        {
+                            "m0": "query.variant == 0",
+                            "m1": "query.variant == 1",
+                            "m2": "query.variant == 2",
+                            "m3": "query.variant == 3",
+                            "m4": "query.variant == 4",
+                            "m5": "query.variant == 5",
+                            "m6": "query.variant == 6",
+                            "m7": "query.variant == 7",
+                            "m8": "query.variant == 8",
+                            "m9": "query.variant == 9"
+                        }
+                    ]
+                }
+            }
+        },
+        "controller.animation.clock.m10": {
+            "initial_state": "default",
+            "states": {
+                "default": {
+                    "animations": [
+                        {
+                            "m00": "query.mark_variant == 0",
+                            "m10": "query.mark_variant == 10",
+                            "m20": "query.mark_variant == 20",
+                            "m30": "query.mark_variant == 30",
+                            "m40": "query.mark_variant == 40",
+                            "m50": "query.mark_variant == 50"
+                        }
+                    ]
+                }
+            }
+        },
+        "controller.animation.clock.h1": {
+            "initial_state": "default",
+            "states": {
+                "default": {
+                    "animations": [
+                        {
+                            "h0": "query.max_health == 10",
+                            "h1": "query.max_health == 11",
+                            "h2": "query.max_health == 12",
+                            "h3": "query.max_health == 13",
+                            "h4": "query.max_health == 14",
+                            "h5": "query.max_health == 15",
+                            "h6": "query.max_health == 16",
+                            "h7": "query.max_health == 17",
+                            "h8": "query.max_health == 18",
+                            "h9": "query.max_health == 19"
+                        }
+                    ]
+                }
+            }
+        },
+        "controller.animation.clock.h10": {
+            "initial_state": "default",
+            "states": {
+                "default": {
+                    "animations": [
+                        {
+                            "h00": "query.can_fly == 1.0",
+                            "h10": "query.can_climb == 1.0",
+                            "h20": "query.can_power_jump == 1.0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
