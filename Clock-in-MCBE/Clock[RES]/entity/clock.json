@@ -1,0 +1,53 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "hako1152:clock",
+            "materials": { "default": "phantom" , "invisible": "phantom_invisible" },
+            "textures": { "default": "textures/entity/clock.texture" },
+            "geometry": { "default": "geometry.clock" },
+            "render_controllers": [ "controller.render.phantom" ],
+            "spawn_egg": { "texture": "spawn_clock" , "texture_index":0 },
+            "animations": {
+                "m0": "animation.clock.m0",
+                "m1": "animation.clock.m1",
+                "m2": "animation.clock.m2",
+                "m3": "animation.clock.m3",
+                "m4": "animation.clock.m4",
+                "m5": "animation.clock.m5",
+                "m6": "animation.clock.m6",
+                "m7": "animation.clock.m7",
+                "m8": "animation.clock.m8",
+                "m9": "animation.clock.m9",
+                "m00": "animation.clock.m00",
+                "m10": "animation.clock.m10",
+                "m20": "animation.clock.m20",
+                "m30": "animation.clock.m30",
+                "m40": "animation.clock.m40",
+                "m50": "animation.clock.m50",
+                "h0": "animation.clock.h0",
+                "h1": "animation.clock.h1",
+                "h2": "animation.clock.h2",
+                "h3": "animation.clock.h3",
+                "h4": "animation.clock.h4",
+                "h5": "animation.clock.h5",
+                "h6": "animation.clock.h6",
+                "h7": "animation.clock.h7",
+                "h8": "animation.clock.h8",
+                "h9": "animation.clock.h9",
+                "h00": "animation.clock.h00",
+                "h10": "animation.clock.h10",
+                "h20": "animation.clock.h20",
+                "h30": "animation.clock.h30",
+                "h40": "animation.clock.h40",
+                "h50": "animation.clock.h50"
+            },
+            "animation_controllers": [
+                { "m1_controller": "controller.animation.clock.m1" },
+                { "m10_controller": "controller.animation.clock.m10" },
+                { "h1_controller": "controller.animation.clock.h1" },
+                { "h10_controller": "controller.animation.clock.h10" }
+            ]
+        }
+    }
+}
