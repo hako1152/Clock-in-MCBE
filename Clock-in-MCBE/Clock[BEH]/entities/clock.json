@@ -22,7 +22,7 @@
             "default": {
                 "minecraft:variant": { "value": 0 },
                 "minecraft:mark_variant": { "value": 0 },
-                "minecraft:health": { "value": 10, "max": 10 },
+                "minecraft:health": { "value": 9, "max": 9 },
                 "minecraft:can_fly":{}
             },
             "m0": { "minecraft:variant": { "value": 0 } },
