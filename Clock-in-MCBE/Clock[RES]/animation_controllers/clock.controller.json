@@ -28,7 +28,7 @@
                 "default": {
                     "animations": [
                         {
-                            "m00": "query.mark_variant == 0",
+                            "m00": "query.mark_variant == 60",
                             "m10": "query.mark_variant == 10",
                             "m20": "query.mark_variant == 20",
                             "m30": "query.mark_variant == 30",
