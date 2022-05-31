@@ -29,7 +29,7 @@
             "m7": { "minecraft:variant": { "value": 7 } },
             "m8": { "minecraft:variant": { "value": 8 } },
             "m9": { "minecraft:variant": { "value": 9 } },
-            "m00": { "minecraft:mark_variant": { "value": 1 } },
+            "m00": { "minecraft:mark_variant": { "value": 60 } },
             "m10": { "minecraft:mark_variant": { "value": 10 } },
             "m20": { "minecraft:mark_variant": { "value": 20 } },
             "m30": { "minecraft:mark_variant": { "value": 30 } },
