@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.clock",
+				"identifier": "geometry.clock_d",
 				"texture_width": 300,
 				"texture_height": 120,
 				"visible_bounds_width": 2,

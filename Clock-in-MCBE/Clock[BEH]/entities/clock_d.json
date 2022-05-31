@@ -2,7 +2,7 @@
     "format_version": "1.13.0",
     "minecraft:entity": {
         "description": {
-            "identifier": "hako1152:clock",
+            "identifier": "hako1152:clock_d",
             "is_spawnable": true,
             "is_summonable": true,
             "is_experimental": false

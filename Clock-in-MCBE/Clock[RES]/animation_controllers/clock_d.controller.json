@@ -1,7 +1,7 @@
 {
     "format_version": "1.10.0",
     "animation_controllers": {
-        "controller.animation.clock.m1": {
+        "controller.animation.clock_d.m1": {
             "initial_state": "default",
             "states": {
                 "default": {
@@ -22,7 +22,7 @@
                 }
             }
         },
-        "controller.animation.clock.m10": {
+        "controller.animation.clock_d.m10": {
             "initial_state": "default",
             "states": {
                 "default": {
@@ -39,7 +39,7 @@
                 }
             }
         },
-        "controller.animation.clock.h1": {
+        "controller.animation.clock_d.h1": {
             "initial_state": "default",
             "states": {
                 "default": {
@@ -60,7 +60,7 @@
                 }
             }
         },
-        "controller.animation.clock.h10": {
+        "controller.animation.clock_d.h10": {
             "initial_state": "default",
             "states": {
                 "default": {

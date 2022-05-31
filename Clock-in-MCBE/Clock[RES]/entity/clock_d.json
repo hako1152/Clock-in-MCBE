@@ -1,0 +1,53 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "hako1152:clock",
+            "materials": { "default": "phantom" , "invisible": "phantom_invisible" },
+            "textures": { "default": "textures/entity/clock_d.texture" },
+            "geometry": { "default": "geometry.clock_d" },
+            "render_controllers": [ "controller.render.phantom" ],
+            "spawn_egg": { "texture": "spawn_clock_d" , "texture_index":0 },
+            "animations": {
+                "m0": "animation.clock_d.m0",
+                "m1": "animation.clock_d.m1",
+                "m2": "animation.clock_d.m2",
+                "m3": "animation.clock_d.m3",
+                "m4": "animation.clock_d.m4",
+                "m5": "animation.clock_d.m5",
+                "m6": "animation.clock_d.m6",
+                "m7": "animation.clock_d.m7",
+                "m8": "animation.clock_d.m8",
+                "m9": "animation.clock_d.m9",
+                "m00": "animation.clock_d.m00",
+                "m10": "animation.clock_d.m10",
+                "m20": "animation.clock_d.m20",
+                "m30": "animation.clock_d.m30",
+                "m40": "animation.clock_d.m40",
+                "m50": "animation.clock_d.m50",
+                "h0": "animation.clock_d.h0",
+                "h1": "animation.clock_d.h1",
+                "h2": "animation.clock_d.h2",
+                "h3": "animation.clock_d.h3",
+                "h4": "animation.clock_d.h4",
+                "h5": "animation.clock_d.h5",
+                "h6": "animation.clock_d.h6",
+                "h7": "animation.clock_d.h7",
+                "h8": "animation.clock_d.h8",
+                "h9": "animation.clock_d.h9",
+                "h00": "animation.clock_d.h00",
+                "h10": "animation.clock_d.h10",
+                "h20": "animation.clock_d.h20",
+                "h30": "animation.clock_d.h30",
+                "h40": "animation.clock_d.h40",
+                "h50": "animation.clock_d.h50"
+            },
+            "animation_controllers": [
+                { "m1_controller": "controller.animation.clock_d.m1" },
+                { "m10_controller": "controller.animation.clock_d.m10" },
+                { "h1_controller": "controller.animation.clock_d.h1" },
+                { "h10_controller": "controller.animation.clock_d.h10" }
+            ]
+        }
+    }
+}

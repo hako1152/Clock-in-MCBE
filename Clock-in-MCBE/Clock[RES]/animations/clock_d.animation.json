@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.clock.m0": {
+		"animation.clock_d.m0": {
 			"loop": true,
 			"bones": {
 				"m1_0": { "position": [0, 0, 1] },
@@ -16,7 +16,7 @@
 				"m1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m1": {
+		"animation.clock_d.m1": {
 			"loop": true,
 			"bones": {
 				"m1_0": { "position": [0, 0, 0] },
@@ -31,7 +31,7 @@
 				"m1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m2": {
+		"animation.clock_d.m2": {
 			"loop": true,
 			"bones": {
 				"m1_0": { "position": [0, 0, 0] },
@@ -46,7 +46,7 @@
 				"m1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m3": {
+		"animation.clock_d.m3": {
 			"loop": true,
 			"bones": {
 				"m1_0": { "position": [0, 0, 0] },
@@ -61,7 +61,7 @@
 				"m1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m4": {
+		"animation.clock_d.m4": {
 			"loop": true,
 			"bones": {
 				"m1_0": { "position": [0, 0, 0] },
@@ -76,7 +76,7 @@
 				"m1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m5": {
+		"animation.clock_d.m5": {
 			"loop": true,
 			"bones": {
 				"m1_0": { "position": [0, 0, 0] },
@@ -91,7 +91,7 @@
 				"m1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m6": {
+		"animation.clock_d.m6": {
 			"loop": true,
 			"bones": {
 				"m1_0": { "position": [0, 0, 0] },
@@ -106,7 +106,7 @@
 				"m1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m7": {
+		"animation.clock_d.m7": {
 			"loop": true,
 			"bones": {
 				"m1_0": { "position": [0, 0, 0] },
@@ -121,7 +121,7 @@
 				"m1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m8": {
+		"animation.clock_d.m8": {
 			"loop": true,
 			"bones": {
 				"m1_0": { "position": [0, 0, 0] },
@@ -136,7 +136,7 @@
 				"m1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m9": {
+		"animation.clock_d.m9": {
 			"loop": true,
 			"bones": {
 				"m1_0": { "position": [0, 0, 0] },
@@ -151,7 +151,7 @@
 				"m1_9": { "position": [0, 0, 1] }
 			}
 		},
-		"animation.clock.m00": {
+		"animation.clock_d.m00": {
 			"loop": true,
 			"bones": {
 				"m10_0": { "position": [0, 0, 1] },
@@ -162,7 +162,7 @@
 				"m10_5": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m10": {
+		"animation.clock_d.m10": {
 			"loop": true,
 			"bones": {
 				"m10_0": { "position": [0, 0, 0] },
@@ -173,7 +173,7 @@
 				"m10_5": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m20": {
+		"animation.clock_d.m20": {
 			"loop": true,
 			"bones": {
 				"m10_0": { "position": [0, 0, 0] },
@@ -184,7 +184,7 @@
 				"m10_5": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m30": {
+		"animation.clock_d.m30": {
 			"loop": true,
 			"bones": {
 				"m10_0": { "position": [0, 0, 0] },
@@ -195,7 +195,7 @@
 				"m10_5": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m40": {
+		"animation.clock_d.m40": {
 			"loop": true,
 			"bones": {
 				"m10_0": { "position": [0, 0, 0] },
@@ -206,7 +206,7 @@
 				"m10_5": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.m50": {
+		"animation.clock_d.m50": {
 			"loop": true,
 			"bones": {
 				"m10_0": { "position": [0, 0, 0] },
@@ -217,7 +217,7 @@
 				"m10_5": { "position": [0, 0, 1] }
 			}
 		},
-		"animation.clock.h0": {
+		"animation.clock_d.h0": {
 			"loop": true,
 			"bones": {
 				"h1_0": { "position": [0, 0, 1] },
@@ -232,7 +232,7 @@
 				"h1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h1": {
+		"animation.clock_d.h1": {
 			"loop": true,
 			"bones": {
 				"h1_0": { "position": [0, 0, 0] },
@@ -247,7 +247,7 @@
 				"h1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h2": {
+		"animation.clock_d.h2": {
 			"loop": true,
 			"bones": {
 				"h1_0": { "position": [0, 0, 0] },
@@ -262,7 +262,7 @@
 				"h1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h3": {
+		"animation.clock_d.h3": {
 			"loop": true,
 			"bones": {
 				"h1_0": { "position": [0, 0, 0] },
@@ -277,7 +277,7 @@
 				"h1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h4": {
+		"animation.clock_d.h4": {
 			"loop": true,
 			"bones": {
 				"h1_0": { "position": [0, 0, 0] },
@@ -292,7 +292,7 @@
 				"h1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h5": {
+		"animation.clock_d.h5": {
 			"loop": true,
 			"bones": {
 				"h1_0": { "position": [0, 0, 0] },
@@ -307,7 +307,7 @@
 				"h1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h6": {
+		"animation.clock_d.h6": {
 			"loop": true,
 			"bones": {
 				"h1_0": { "position": [0, 0, 0] },
@@ -322,7 +322,7 @@
 				"h1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h7": {
+		"animation.clock_d.h7": {
 			"loop": true,
 			"bones": {
 				"h1_0": { "position": [0, 0, 0] },
@@ -337,7 +337,7 @@
 				"h1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h8": {
+		"animation.clock_d.h8": {
 			"loop": true,
 			"bones": {
 				"h1_0": { "position": [0, 0, 0] },
@@ -352,7 +352,7 @@
 				"h1_9": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h9": {
+		"animation.clock_d.h9": {
 			"loop": true,
 			"bones": {
 				"h1_0": { "position": [0, 0, 0] },
@@ -367,7 +367,7 @@
 				"h1_9": { "position": [0, 0, 1] }
 			}
 		},
-		"animation.clock.h00": {
+		"animation.clock_d.h00": {
 			"loop": true,
 			"bones": {
 				"h10_0": { "position": [0, 0, 1] },
@@ -378,7 +378,7 @@
 				"h10_5": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h10": {
+		"animation.clock_d.h10": {
 			"loop": true,
 			"bones": {
 				"h10_0": { "position": [0, 0, 0] },
@@ -389,7 +389,7 @@
 				"h10_5": { "position": [0, 0, 0] }
 			}
 		},
-		"animation.clock.h20": {
+		"animation.clock_d.h20": {
 			"loop": true,
 			"bones": {
 				"h10_0": { "position": [0, 0, 0] },
