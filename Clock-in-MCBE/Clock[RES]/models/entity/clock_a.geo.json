@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.clock2.geo",
+				"identifier": "geometry.clock_a.geo",
 				"texture_width": 1024,
 				"texture_height": 960,
 				"visible_bounds_width": 2,
@@ -45,8 +45,8 @@
 					"pivot": [0, 8, 0],
 					"cubes": [
 						{
-							"origin": [0.35, 8, -0.025],
-							"size": [0.1, 6.25, 0.05],
+							"origin": [0.35, 7.25, -0.05],
+							"size": [0.1, 7, 0.1],
 							"uv": {
 								"north": {"uv": [1021, 0], "uv_size": [1, 1]},
 								"east": {"uv": [1021, 0], "uv_size": [1, 1]},
@@ -64,8 +64,8 @@
 					"pivot": [0, 8, 0],
 					"cubes": [
 						{
-							"origin": [0.2, 8, -0.1],
-							"size": [0.1, 6, 0.2],
+							"origin": [0.2, 7, -0.1],
+							"size": [0.1, 6.5, 0.2],
 							"uv": {
 								"north": {"uv": [1022, 0], "uv_size": [1, 1]},
 								"east": {"uv": [1022, 0], "uv_size": [1, 1]},
@@ -83,8 +83,8 @@
 					"pivot": [0, 8, 0],
 					"cubes": [
 						{
-							"origin": [0.05, 8, -0.2],
-							"size": [0.1, 3.5, 0.4],
+							"origin": [0.05, 7, -0.2],
+							"size": [0.1, 4.5, 0.4],
 							"uv": {
 								"north": {"uv": [1023, 0], "uv_size": [1, 1]},
 								"east": {"uv": [1023, 0], "uv_size": [1, 1]},

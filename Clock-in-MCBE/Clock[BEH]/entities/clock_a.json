@@ -16,7 +16,1451 @@
             "minecraft:jump.static": {},
             "minecraft:behavior.float": { "priority": 0 },
             "minecraft:knockback_resistance": { "value": 1 },
-            "minecraft:physics": {}
+            "minecraft:physics": {},
+            "minecraft:environment_sensor":{
+                "triggers": [
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s0"
+                        },
+                        "event": "s0"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s1"
+                        },
+                        "event": "s1"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s2"
+                        },
+                        "event": "s2"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s3"
+                        },
+                        "event": "s3"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s4"
+                        },
+                        "event": "s4"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s5"
+                        },
+                        "event": "s5"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s6"
+                        },
+                        "event": "s6"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s7"
+                        },
+                        "event": "s7"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s8"
+                        },
+                        "event": "s8"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s9"
+                        },
+                        "event": "s9"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s10"
+                        },
+                        "event": "s10"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s11"
+                        },
+                        "event": "s11"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s12"
+                        },
+                        "event": "s12"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s13"
+                        },
+                        "event": "s13"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s14"
+                        },
+                        "event": "s14"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s15"
+                        },
+                        "event": "s15"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s16"
+                        },
+                        "event": "s16"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s17"
+                        },
+                        "event": "s17"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s18"
+                        },
+                        "event": "s18"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s19"
+                        },
+                        "event": "s19"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s20"
+                        },
+                        "event": "s20"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s21"
+                        },
+                        "event": "s21"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s22"
+                        },
+                        "event": "s22"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s23"
+                        },
+                        "event": "s23"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s24"
+                        },
+                        "event": "s24"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s25"
+                        },
+                        "event": "s25"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s26"
+                        },
+                        "event": "s26"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s27"
+                        },
+                        "event": "s27"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s28"
+                        },
+                        "event": "s28"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s29"
+                        },
+                        "event": "s29"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s30"
+                        },
+                        "event": "s30"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s31"
+                        },
+                        "event": "s31"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s32"
+                        },
+                        "event": "s32"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s33"
+                        },
+                        "event": "s33"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s34"
+                        },
+                        "event": "s34"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s35"
+                        },
+                        "event": "s35"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s36"
+                        },
+                        "event": "s36"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s37"
+                        },
+                        "event": "s37"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s38"
+                        },
+                        "event": "s38"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s39"
+                        },
+                        "event": "s39"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s40"
+                        },
+                        "event": "s40"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s41"
+                        },
+                        "event": "s41"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s42"
+                        },
+                        "event": "s42"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s43"
+                        },
+                        "event": "s43"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s44"
+                        },
+                        "event": "s44"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s45"
+                        },
+                        "event": "s45"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s46"
+                        },
+                        "event": "s46"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s47"
+                        },
+                        "event": "s47"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s48"
+                        },
+                        "event": "s48"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s49"
+                        },
+                        "event": "s49"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s50"
+                        },
+                        "event": "s50"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s51"
+                        },
+                        "event": "s51"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s52"
+                        },
+                        "event": "s52"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s53"
+                        },
+                        "event": "s53"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s54"
+                        },
+                        "event": "s54"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s55"
+                        },
+                        "event": "s55"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s56"
+                        },
+                        "event": "s56"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s57"
+                        },
+                        "event": "s57"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s58"
+                        },
+                        "event": "s58"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "s59"
+                        },
+                        "event": "s59"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m0"
+                        },
+                        "event": "m0"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m1"
+                        },
+                        "event": "m1"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m2"
+                        },
+                        "event": "m2"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m3"
+                        },
+                        "event": "m3"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m4"
+                        },
+                        "event": "m4"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m5"
+                        },
+                        "event": "m5"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m6"
+                        },
+                        "event": "m6"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m7"
+                        },
+                        "event": "m7"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m8"
+                        },
+                        "event": "m8"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m9"
+                        },
+                        "event": "m9"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m10"
+                        },
+                        "event": "m10"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m11"
+                        },
+                        "event": "m11"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m12"
+                        },
+                        "event": "m12"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m13"
+                        },
+                        "event": "m13"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m14"
+                        },
+                        "event": "m14"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m15"
+                        },
+                        "event": "m15"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m16"
+                        },
+                        "event": "m16"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m17"
+                        },
+                        "event": "m17"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m18"
+                        },
+                        "event": "m18"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m19"
+                        },
+                        "event": "m19"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m20"
+                        },
+                        "event": "m20"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m21"
+                        },
+                        "event": "m21"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m22"
+                        },
+                        "event": "m22"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m23"
+                        },
+                        "event": "m23"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m24"
+                        },
+                        "event": "m24"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m25"
+                        },
+                        "event": "m25"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m26"
+                        },
+                        "event": "m26"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m27"
+                        },
+                        "event": "m27"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m28"
+                        },
+                        "event": "m28"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m29"
+                        },
+                        "event": "m29"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m30"
+                        },
+                        "event": "m30"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m31"
+                        },
+                        "event": "m31"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m32"
+                        },
+                        "event": "m32"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m33"
+                        },
+                        "event": "m33"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m34"
+                        },
+                        "event": "m34"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m35"
+                        },
+                        "event": "m35"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m36"
+                        },
+                        "event": "m36"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m37"
+                        },
+                        "event": "m37"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m38"
+                        },
+                        "event": "m38"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m39"
+                        },
+                        "event": "m39"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m40"
+                        },
+                        "event": "m40"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m41"
+                        },
+                        "event": "m41"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m42"
+                        },
+                        "event": "m42"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m43"
+                        },
+                        "event": "m43"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m44"
+                        },
+                        "event": "m44"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m45"
+                        },
+                        "event": "m45"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m46"
+                        },
+                        "event": "m46"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m47"
+                        },
+                        "event": "m47"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m48"
+                        },
+                        "event": "m48"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m49"
+                        },
+                        "event": "m49"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m50"
+                        },
+                        "event": "m50"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m51"
+                        },
+                        "event": "m51"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m52"
+                        },
+                        "event": "m52"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m53"
+                        },
+                        "event": "m53"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m54"
+                        },
+                        "event": "m54"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m55"
+                        },
+                        "event": "m55"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m56"
+                        },
+                        "event": "m56"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m57"
+                        },
+                        "event": "m57"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m58"
+                        },
+                        "event": "m58"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "m59"
+                        },
+                        "event": "m59"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h0"
+                        },
+                        "event": "h0"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h1"
+                        },
+                        "event": "h1"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h2"
+                        },
+                        "event": "h2"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h3"
+                        },
+                        "event": "h3"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h4"
+                        },
+                        "event": "h4"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h5"
+                        },
+                        "event": "h5"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h6"
+                        },
+                        "event": "h6"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h7"
+                        },
+                        "event": "h7"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h8"
+                        },
+                        "event": "h8"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h9"
+                        },
+                        "event": "h9"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h10"
+                        },
+                        "event": "h10"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h11"
+                        },
+                        "event": "h11"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h12"
+                        },
+                        "event": "h12"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h13"
+                        },
+                        "event": "h13"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h14"
+                        },
+                        "event": "h14"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h15"
+                        },
+                        "event": "h15"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h16"
+                        },
+                        "event": "h16"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h17"
+                        },
+                        "event": "h17"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h18"
+                        },
+                        "event": "h18"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h19"
+                        },
+                        "event": "h19"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h20"
+                        },
+                        "event": "h20"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h21"
+                        },
+                        "event": "h21"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h22"
+                        },
+                        "event": "h22"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h23"
+                        },
+                        "event": "h23"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h24"
+                        },
+                        "event": "h24"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h25"
+                        },
+                        "event": "h25"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h26"
+                        },
+                        "event": "h26"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h27"
+                        },
+                        "event": "h27"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h28"
+                        },
+                        "event": "h28"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h29"
+                        },
+                        "event": "h29"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h30"
+                        },
+                        "event": "h30"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h31"
+                        },
+                        "event": "h31"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h32"
+                        },
+                        "event": "h32"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h33"
+                        },
+                        "event": "h33"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h34"
+                        },
+                        "event": "h34"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h35"
+                        },
+                        "event": "h35"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h36"
+                        },
+                        "event": "h36"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h37"
+                        },
+                        "event": "h37"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h38"
+                        },
+                        "event": "h38"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h39"
+                        },
+                        "event": "h39"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h40"
+                        },
+                        "event": "h40"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h41"
+                        },
+                        "event": "h41"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h42"
+                        },
+                        "event": "h42"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h43"
+                        },
+                        "event": "h43"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h44"
+                        },
+                        "event": "h44"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h45"
+                        },
+                        "event": "h45"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h46"
+                        },
+                        "event": "h46"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h47"
+                        },
+                        "event": "h47"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h48"
+                        },
+                        "event": "h48"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h49"
+                        },
+                        "event": "h49"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h50"
+                        },
+                        "event": "h50"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h51"
+                        },
+                        "event": "h51"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h52"
+                        },
+                        "event": "h52"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h53"
+                        },
+                        "event": "h53"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h54"
+                        },
+                        "event": "h54"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h55"
+                        },
+                        "event": "h55"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h56"
+                        },
+                        "event": "h56"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h57"
+                        },
+                        "event": "h57"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h58"
+                        },
+                        "event": "h58"
+                    },
+                    {
+                        "filters": {
+                            "test": "has_tag",
+                            "operator": "equals",
+                            "value": "h59"
+                        },
+                        "event": "h59"
+                    }
+                ]
+            }
         },
         "component_groups": {
             "s0": { "minecraft:variant": { "value": 0 } },
