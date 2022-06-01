@@ -7,7 +7,7 @@
             "textures": { "default": "textures/entity/clock_a.texture" },
             "geometry": { "default": "geometry.clock_a" },
             "render_controllers": [ "controller.render.phantom" ],
-            "spawn_egg": { "texture": "spawn_clock_a" , "texture_index":1 },
+            "spawn_egg": { "texture": "spawn_clock_a" , "texture_index":0 },
             "animations": {
                 "s0": "animation.clock_a.s0",
                 "s1": "animation.clock_a.s1",

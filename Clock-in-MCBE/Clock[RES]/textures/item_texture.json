@@ -6,6 +6,11 @@
       "textures": [
         "textures/items/clock_d.item"
       ]
+    },
+    "spawn_clock_a": {
+      "textures": [
+        "textures/items/clock_a.item"
+      ]
     }
   }
 }

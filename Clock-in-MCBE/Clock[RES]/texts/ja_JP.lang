@@ -1,1 +1,2 @@
-item.spawn_egg.entity.hako1152:clock_d.name=時計
+item.spawn_egg.entity.hako1152:clock_d.name=時計(デジタル)
+item.spawn_egg.entity.hako1152:clock_a.name=時計(アナログ)

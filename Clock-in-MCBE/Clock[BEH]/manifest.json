@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-      "name": "Clock in MCBE [BEH]",
+      "name": "Clock in MCBE [BEH] V2.0.0",
       "description": "お遊び",
-      "version": [1, 0, 0],
+      "version": [2, 0, 0],
       "uuid": "31c4f131-e638-4c3b-8521-fef618f01610",
       "min_engine_version": [1, 18, 30]
     },
@@ -11,7 +11,7 @@
       {
         "type": "data",
         "description": "Clock data module",
-        "version": [1, 0, 0],
+        "version": [2, 0, 0],
         "uuid": "77429fe7-22cd-407c-9dd7-4a6e3d8b6240"
       }
     ],
