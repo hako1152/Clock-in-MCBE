@@ -1,0 +1,725 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.clock_a.s0": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 0, 0, 0 ] } }
+		},
+		"animation.clock_a.s1": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -6, 0, 0 ] } }
+		},
+		"animation.clock_a.s2": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -12, 0, 0 ] } }
+		},
+		"animation.clock_a.s3": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -18, 0, 0 ] } }
+		},
+		"animation.clock_a.s4": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -24, 0, 0 ] } }
+		},
+		"animation.clock_a.s5": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -30, 0, 0 ] } }
+		},
+		"animation.clock_a.s6": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -36, 0, 0 ] } }
+		},
+		"animation.clock_a.s7": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -42, 0, 0 ] } }
+		},
+		"animation.clock_a.s8": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -48, 0, 0 ] } }
+		},
+		"animation.clock_a.s9": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -54, 0, 0 ] } }
+		},
+		"animation.clock_a.s10": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -60, 0, 0 ] } }
+		},
+		"animation.clock_a.s11": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -66, 0, 0 ] } }
+		},
+		"animation.clock_a.s12": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -72, 0, 0 ] } }
+		},
+		"animation.clock_a.s13": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -78, 0, 0 ] } }
+		},
+		"animation.clock_a.s14": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -84, 0, 0 ] } }
+		},
+		"animation.clock_a.s15": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -90, 0, 0 ] } }
+		},
+		"animation.clock_a.s16": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -96, 0, 0 ] } }
+		},
+		"animation.clock_a.s17": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -102, 0, 0 ] } }
+		},
+		"animation.clock_a.s18": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -108, 0, 0 ] } }
+		},
+		"animation.clock_a.s19": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -114, 0, 0 ] } }
+		},
+		"animation.clock_a.s20": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -120, 0, 0 ] } }
+		},
+		"animation.clock_a.s21": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -126, 0, 0 ] } }
+		},
+		"animation.clock_a.s22": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -132, 0, 0 ] } }
+		},
+		"animation.clock_a.s23": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -138, 0, 0 ] } }
+		},
+		"animation.clock_a.s24": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -144, 0, 0 ] } }
+		},
+		"animation.clock_a.s25": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -150, 0, 0 ] } }
+		},
+		"animation.clock_a.s26": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -156, 0, 0 ] } }
+		},
+		"animation.clock_a.s27": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -162, 0, 0 ] } }
+		},
+		"animation.clock_a.s28": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -168, 0, 0 ] } }
+		},
+		"animation.clock_a.s29": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -174, 0, 0 ] } }
+		},
+		"animation.clock_a.s30": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ -180, 0, 0 ] } }
+		},
+		"animation.clock_a.s31": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 174, 0, 0 ] } }
+		},
+		"animation.clock_a.s32": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 168, 0, 0 ] } }
+		},
+		"animation.clock_a.s33": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 162, 0, 0 ] } }
+		},
+		"animation.clock_a.s34": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 156, 0, 0 ] } }
+		},
+		"animation.clock_a.s35": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 150, 0, 0 ] } }
+		},
+		"animation.clock_a.s36": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 144, 0, 0 ] } }
+		},
+		"animation.clock_a.s37": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 138, 0, 0 ] } }
+		},
+		"animation.clock_a.s38": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 132, 0, 0 ] } }
+		},
+		"animation.clock_a.s39": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 126, 0, 0 ] } }
+		},
+		"animation.clock_a.s40": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 120, 0, 0 ] } }
+		},
+		"animation.clock_a.s41": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 114, 0, 0 ] } }
+		},
+		"animation.clock_a.s42": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 108, 0, 0 ] } }
+		},
+		"animation.clock_a.s43": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 102, 0, 0 ] } }
+		},
+		"animation.clock_a.s44": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 96, 0, 0 ] } }
+		},
+		"animation.clock_a.s45": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 90, 0, 0 ] } }
+		},
+		"animation.clock_a.s46": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 84, 0, 0 ] } }
+		},
+		"animation.clock_a.s47": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 78, 0, 0 ] } }
+		},
+		"animation.clock_a.s48": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 72, 0, 0 ] } }
+		},
+		"animation.clock_a.s49": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 66, 0, 0 ] } }
+		},
+		"animation.clock_a.s50": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 60, 0, 0 ] } }
+		},
+		"animation.clock_a.s51": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 54, 0, 0 ] } }
+		},
+		"animation.clock_a.s52": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 48, 0, 0 ] } }
+		},
+		"animation.clock_a.s53": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 42, 0, 0 ] } }
+		},
+		"animation.clock_a.s54": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 36, 0, 0 ] } }
+		},
+		"animation.clock_a.s55": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 30, 0, 0 ] } }
+		},
+		"animation.clock_a.s56": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 24, 0, 0 ] } }
+		},
+		"animation.clock_a.s57": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 18, 0, 0 ] } }
+		},
+		"animation.clock_a.s58": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 12, 0, 0 ] } }
+		},
+		"animation.clock_a.s59": {
+			"loop": true,
+			"bones": { "s": { "rotation": [ 6, 0, 0 ] } }
+		},
+		"animation.clock_a.m0": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 0, 0, 0 ] } }
+		},
+		"animation.clock_a.m1": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -6, 0, 0 ] } }
+		},
+		"animation.clock_a.m2": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -12, 0, 0 ] } }
+		},
+		"animation.clock_a.m3": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -18, 0, 0 ] } }
+		},
+		"animation.clock_a.m4": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -24, 0, 0 ] } }
+		},
+		"animation.clock_a.m5": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -30, 0, 0 ] } }
+		},
+		"animation.clock_a.m6": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -36, 0, 0 ] } }
+		},
+		"animation.clock_a.m7": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -42, 0, 0 ] } }
+		},
+		"animation.clock_a.m8": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -48, 0, 0 ] } }
+		},
+		"animation.clock_a.m9": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -54, 0, 0 ] } }
+		},
+		"animation.clock_a.m10": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -60, 0, 0 ] } }
+		},
+		"animation.clock_a.m11": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -66, 0, 0 ] } }
+		},
+		"animation.clock_a.m12": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -72, 0, 0 ] } }
+		},
+		"animation.clock_a.m13": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -78, 0, 0 ] } }
+		},
+		"animation.clock_a.m14": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -84, 0, 0 ] } }
+		},
+		"animation.clock_a.m15": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -90, 0, 0 ] } }
+		},
+		"animation.clock_a.m16": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -96, 0, 0 ] } }
+		},
+		"animation.clock_a.m17": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -102, 0, 0 ] } }
+		},
+		"animation.clock_a.m18": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -108, 0, 0 ] } }
+		},
+		"animation.clock_a.m19": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -114, 0, 0 ] } }
+		},
+		"animation.clock_a.m20": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -120, 0, 0 ] } }
+		},
+		"animation.clock_a.m21": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -126, 0, 0 ] } }
+		},
+		"animation.clock_a.m22": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -132, 0, 0 ] } }
+		},
+		"animation.clock_a.m23": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -138, 0, 0 ] } }
+		},
+		"animation.clock_a.m24": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -144, 0, 0 ] } }
+		},
+		"animation.clock_a.m25": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -150, 0, 0 ] } }
+		},
+		"animation.clock_a.m26": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -156, 0, 0 ] } }
+		},
+		"animation.clock_a.m27": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -162, 0, 0 ] } }
+		},
+		"animation.clock_a.m28": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -168, 0, 0 ] } }
+		},
+		"animation.clock_a.m29": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -174, 0, 0 ] } }
+		},
+		"animation.clock_a.m30": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ -180, 0, 0 ] } }
+		},
+		"animation.clock_a.m31": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 174, 0, 0 ] } }
+		},
+		"animation.clock_a.m32": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 168, 0, 0 ] } }
+		},
+		"animation.clock_a.m33": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 162, 0, 0 ] } }
+		},
+		"animation.clock_a.m34": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 156, 0, 0 ] } }
+		},
+		"animation.clock_a.m35": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 150, 0, 0 ] } }
+		},
+		"animation.clock_a.m36": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 144, 0, 0 ] } }
+		},
+		"animation.clock_a.m37": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 138, 0, 0 ] } }
+		},
+		"animation.clock_a.m38": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 132, 0, 0 ] } }
+		},
+		"animation.clock_a.m39": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 126, 0, 0 ] } }
+		},
+		"animation.clock_a.m40": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 120, 0, 0 ] } }
+		},
+		"animation.clock_a.m41": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 114, 0, 0 ] } }
+		},
+		"animation.clock_a.m42": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 108, 0, 0 ] } }
+		},
+		"animation.clock_a.m43": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 102, 0, 0 ] } }
+		},
+		"animation.clock_a.m44": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 96, 0, 0 ] } }
+		},
+		"animation.clock_a.m45": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 90, 0, 0 ] } }
+		},
+		"animation.clock_a.m46": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 84, 0, 0 ] } }
+		},
+		"animation.clock_a.m47": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 78, 0, 0 ] } }
+		},
+		"animation.clock_a.m48": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 72, 0, 0 ] } }
+		},
+		"animation.clock_a.m49": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 66, 0, 0 ] } }
+		},
+		"animation.clock_a.m50": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 60, 0, 0 ] } }
+		},
+		"animation.clock_a.m51": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 54, 0, 0 ] } }
+		},
+		"animation.clock_a.m52": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 48, 0, 0 ] } }
+		},
+		"animation.clock_a.m53": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 42, 0, 0 ] } }
+		},
+		"animation.clock_a.m54": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 36, 0, 0 ] } }
+		},
+		"animation.clock_a.m55": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 30, 0, 0 ] } }
+		},
+		"animation.clock_a.m56": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 24, 0, 0 ] } }
+		},
+		"animation.clock_a.m57": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 18, 0, 0 ] } }
+		},
+		"animation.clock_a.m58": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 12, 0, 0 ] } }
+		},
+		"animation.clock_a.m59": {
+			"loop": true,
+			"bones": { "m": { "rotation": [ 6, 0, 0 ] } }
+		},
+		"animation.clock_a.h0": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 0, 0, 0 ] } }
+		},
+		"animation.clock_a.h1": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -6, 0, 0 ] } }
+		},
+		"animation.clock_a.h2": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -12, 0, 0 ] } }
+		},
+		"animation.clock_a.h3": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -18, 0, 0 ] } }
+		},
+		"animation.clock_a.h4": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -24, 0, 0 ] } }
+		},
+		"animation.clock_a.h5": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -30, 0, 0 ] } }
+		},
+		"animation.clock_a.h6": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -36, 0, 0 ] } }
+		},
+		"animation.clock_a.h7": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -42, 0, 0 ] } }
+		},
+		"animation.clock_a.h8": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -48, 0, 0 ] } }
+		},
+		"animation.clock_a.h9": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -54, 0, 0 ] } }
+		},
+		"animation.clock_a.h10": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -60, 0, 0 ] } }
+		},
+		"animation.clock_a.h11": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -66, 0, 0 ] } }
+		},
+		"animation.clock_a.h12": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -72, 0, 0 ] } }
+		},
+		"animation.clock_a.h13": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -78, 0, 0 ] } }
+		},
+		"animation.clock_a.h14": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -84, 0, 0 ] } }
+		},
+		"animation.clock_a.h15": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -90, 0, 0 ] } }
+		},
+		"animation.clock_a.h16": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -96, 0, 0 ] } }
+		},
+		"animation.clock_a.h17": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -102, 0, 0 ] } }
+		},
+		"animation.clock_a.h18": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -108, 0, 0 ] } }
+		},
+		"animation.clock_a.h19": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -114, 0, 0 ] } }
+		},
+		"animation.clock_a.h20": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -120, 0, 0 ] } }
+		},
+		"animation.clock_a.h21": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -126, 0, 0 ] } }
+		},
+		"animation.clock_a.h22": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -132, 0, 0 ] } }
+		},
+		"animation.clock_a.h23": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -138, 0, 0 ] } }
+		},
+		"animation.clock_a.h24": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -144, 0, 0 ] } }
+		},
+		"animation.clock_a.h25": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -150, 0, 0 ] } }
+		},
+		"animation.clock_a.h26": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -156, 0, 0 ] } }
+		},
+		"animation.clock_a.h27": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -162, 0, 0 ] } }
+		},
+		"animation.clock_a.h28": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -168, 0, 0 ] } }
+		},
+		"animation.clock_a.h29": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -174, 0, 0 ] } }
+		},
+		"animation.clock_a.h30": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ -180, 0, 0 ] } }
+		},
+		"animation.clock_a.h31": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 174, 0, 0 ] } }
+		},
+		"animation.clock_a.h32": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 168, 0, 0 ] } }
+		},
+		"animation.clock_a.h33": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 162, 0, 0 ] } }
+		},
+		"animation.clock_a.h34": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 156, 0, 0 ] } }
+		},
+		"animation.clock_a.h35": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 150, 0, 0 ] } }
+		},
+		"animation.clock_a.h36": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 144, 0, 0 ] } }
+		},
+		"animation.clock_a.h37": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 138, 0, 0 ] } }
+		},
+		"animation.clock_a.h38": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 132, 0, 0 ] } }
+		},
+		"animation.clock_a.h39": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 126, 0, 0 ] } }
+		},
+		"animation.clock_a.h40": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 120, 0, 0 ] } }
+		},
+		"animation.clock_a.h41": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 114, 0, 0 ] } }
+		},
+		"animation.clock_a.h42": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 108, 0, 0 ] } }
+		},
+		"animation.clock_a.h43": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 102, 0, 0 ] } }
+		},
+		"animation.clock_a.h44": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 96, 0, 0 ] } }
+		},
+		"animation.clock_a.h45": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 90, 0, 0 ] } }
+		},
+		"animation.clock_a.h46": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 84, 0, 0 ] } }
+		},
+		"animation.clock_a.h47": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 78, 0, 0 ] } }
+		},
+		"animation.clock_a.h48": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 72, 0, 0 ] } }
+		},
+		"animation.clock_a.h49": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 66, 0, 0 ] } }
+		},
+		"animation.clock_a.h50": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 60, 0, 0 ] } }
+		},
+		"animation.clock_a.h51": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 54, 0, 0 ] } }
+		},
+		"animation.clock_a.h52": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 48, 0, 0 ] } }
+		},
+		"animation.clock_a.h53": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 42, 0, 0 ] } }
+		},
+		"animation.clock_a.h54": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 36, 0, 0 ] } }
+		},
+		"animation.clock_a.h55": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 30, 0, 0 ] } }
+		},
+		"animation.clock_a.h56": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 24, 0, 0 ] } }
+		},
+		"animation.clock_a.h57": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 18, 0, 0 ] } }
+		},
+		"animation.clock_a.h58": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 12, 0, 0 ] } }
+		},
+		"animation.clock_a.h59": {
+			"loop": true,
+			"bones": { "h": { "rotation": [ 6, 0, 0 ] } }
+		}
+	}
+}
