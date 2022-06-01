@@ -2,7 +2,7 @@
     "format_version": "1.8.0",
     "minecraft:client_entity": {
         "description": {
-            "identifier": "hako1152:clock",
+            "identifier": "hako1152:clock_d",
             "materials": { "default": "phantom" , "invisible": "phantom_invisible" },
             "textures": { "default": "textures/entity/clock_d.texture" },
             "geometry": { "default": "geometry.clock_d" },
