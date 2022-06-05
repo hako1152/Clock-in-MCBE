@@ -1,4 +1,3 @@
-tag @e[score={c_s=1..}] add s0
 tag @e[score={c_s=0}] add s0
 tag @e[score={c_s=1}] add s1
 tag @e[score={c_s=2}] add s2
