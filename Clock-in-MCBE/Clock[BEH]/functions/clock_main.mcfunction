@@ -532,3 +532,4 @@ tag @e[score={c_h=..55}] remove h56
 tag @e[score={c_h=..56}] remove h57
 tag @e[score={c_h=..57}] remove h58
 tag @e[score={c_h=..58}] remove h59
+scoreboard players set @e[score={c_s=60}] c_s 0
